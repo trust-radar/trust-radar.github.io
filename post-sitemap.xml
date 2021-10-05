@@ -9,32 +9,8 @@
 
 
     <url>
-        <loc>https://trustedmate.com/infinite-hosting/</loc>
-        <lastmod>2021-10-05T10:47:38.281Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://trustedmate.com/videoman/</loc>
-        <lastmod>2021-10-01T09:36:18.988Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://trustedmate.com/bluehost/</loc>
-        <lastmod>2021-10-01T09:36:18.987Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://trustedmate.com/adobe-spark/</loc>
-        <lastmod>2021-10-01T09:36:18.986Z</lastmod>
+        <lastmod>2021-10-05T11:04:15.754Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -42,7 +18,31 @@
 
     <url>
         <loc>https://trustedmate.com/curation-cloud-2021/</loc>
-        <lastmod>2021-05-12T06:01:43.981Z</lastmod>
+        <lastmod>2021-10-05T11:02:42.191Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://trustedmate.com/bluehost/</loc>
+        <lastmod>2021-10-05T11:01:48.641Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://trustedmate.com/adobe-spark/</loc>
+        <lastmod>2021-10-05T10:59:14.705Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://trustedmate.com/infinite-hosting/</loc>
+        <lastmod>2021-10-05T10:47:38.281Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
